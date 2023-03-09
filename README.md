@@ -1,6 +1,6 @@
 # Depth-first search (DFS)
 
-A common brute-force algorithm that works well for a small number of nodes. It begins at the graph root and explores every node that attaches to the root. Then it goes to the next level, exploring each level until it reaches the end.
+A common brute-force algorithm that works well for a small number of nodes. It begins at the graph root and then explores every node from the root down a single path. It then backtracks and begins exploring the paths not taken until it reaches the root again.
 
 ## Implementation
 
