@@ -17,6 +17,10 @@ The visited set is used to avoid revisiting nodes and getting stuck in cycles. I
 
 ## Visualizations
 Run locally to see the graphs used in the test cases.
+1. Directed graph
+![Image of Directed Acyclic Graph] (/img/direct_graph_output.PNG)
+2.
+3.
 
 ## Use Cases
 * Finding connected components: DFS can be used to find all the connected components in an undirected graph. Each connected component is a group of nodes that are reachable from each other.
